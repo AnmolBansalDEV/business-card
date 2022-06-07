@@ -1,5 +1,5 @@
 import React from "react";
-import profile from "../images/profile.jpeg"
+import profile from "../images/profile.jpg"
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome"
 import {faLinkedin} from "@fortawesome/free-brands-svg-icons"
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
