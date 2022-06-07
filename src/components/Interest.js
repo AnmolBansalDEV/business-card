@@ -6,9 +6,9 @@ export default function Interest(){
             <h3>Interests</h3>
             <p>
                 Food expert. Music scholar. Reader.
-                Internet fanatic. Bacon buff. Entrepreneur.
-                Travel geek. Pop culture ninja.
-                Coffee fanatic.
+                Internet fanatic.
+                Travel freak. Pop culture monk.
+                Lassi fanatic.
             </p>
         </div>
     )
